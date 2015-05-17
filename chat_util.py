@@ -6,7 +6,7 @@ MAX_CLIENTS = 30
 PORT = 22222
 QUIT_STRING = '<$quit$>'
 
-#accounts  = {"wjj":"abc", "wjj1":"bcd", "wjj2":"cde"}
+
 global accounts
 accounts = {}
 accounts["wjj"] = {
