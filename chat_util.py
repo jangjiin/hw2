@@ -1,5 +1,4 @@
-# implementing 3-tier structure: Hall --> Room --> Clients; 
-# 14-Jun-2013
+#https://github.com/jangjiin/hw2
 
 import socket, pdb
 
